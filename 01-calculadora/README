@@ -1,0 +1,18 @@
+# Calculadora en Java Swing
+
+Calculadora con las cuatro operaciones básicas y validación de datos.
+
+## Características
+- Suma, resta, multiplicación y división
+- Validación de entradas no numéricas
+- Control de división por cero
+- Botón para limpiar los campos
+- Interfaz gráfica con Java Swing
+
+## Cómo ejecutarlo
+```
+javac CalculadoraSwing.java
+java CalculadoraSwing
+```
+
+## Captura
